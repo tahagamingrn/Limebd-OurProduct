@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+   }
+   .ourproduct{
+position: relative;
+left: 550px;
+   }
+   .p1{
+position: relative;
+left: 680px;
+   }
+   .p1title{
+position: relative;
+left: 70px;
+bottom: 250px;       
+
+}
+.p2title{
+    position: relative;
+    left: 32px;
+    bottom: 270px;       
+    
+    }
