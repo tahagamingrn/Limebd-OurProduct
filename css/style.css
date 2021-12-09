@@ -1,0 +1,66 @@
+.Wrapper{
+width: 1170px;
+margin:auto;
+
+}
+body {
+    background-image: url("back.jpg");
+height: 500px;
+background-size: cover;
+background-position: center center;
+position: relative;
+}
+.nav-area{
+float: right;
+list-style: none;
+margin-top: 30px;
+}
+.nav-area li{
+display: inline-block;
+}
+.nav-area li a{
+    color: white ;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.nav-area li a:hover{
+background: #fff;
+color:black;
+}
+.logo img{
+width: 100px;
+float: left;
+height: auto;
+}
+
+.welcome{
+    color:white;
+position: absolute;
+width: 1000px;
+height: 300px;
+margin: 20% 15%;
+}
+.welcome h1{
+text-align: center;
+color: black;
+text-decoration: uppercase;
+font-size: 60;
+}
+.welcome a{
+border: 2px solid #fff;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 14px;
+margin-top: 20px;
+display: inline-block;
+}
+.welcome a:hover{
+    background: #fff;
+
+}
+.welcome a {
+position: absolute;
+right: 450px;
+
+}
